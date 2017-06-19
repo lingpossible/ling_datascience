@@ -35,7 +35,7 @@ In this assignment, you will explore and visualize your initial analysis in orde
 
 - **Submission:**
    - To be uploaded via your student Github repository.
-   - **Due Date:** TBD
+   - **Due Date:** June 29th, 2017.
 
 ---
 

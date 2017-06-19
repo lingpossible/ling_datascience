@@ -29,7 +29,7 @@ Exploratory data analysis is a crucial and informative step in the data process.
 
 - **Goal**: Confirm your data and create an exploratory analysis notebook with stat analysis and visualization.
 - **[Detailed Spec File](./03-exploratory-analysis/README.md)**
-- **Due Date:** TBD
+- **Due Date:** June 29th, 2017.
 
 
 ### **Final Project, pt. 4**
@@ -40,7 +40,7 @@ Use your model to display correlations, feature importance, and unexplained vari
 
 - **Goal**: Detailed iPython technical notebook with a summary of your statistical analysis, model, and evaluation metrics.
 - **[Detailed Spec File](./04-notebook-rough-draft/README.md)**
-- **Due Date:** TBD
+- **Due Date:** July 6th, 2017.
 
 
 ### **Final Project, pt. 5**
@@ -51,4 +51,4 @@ You should already have the analytical work complete, so now it's time to clean 
 
 - **Goal**: Detailed presentation deck that relates your data, model, and findings to a non-technical audience.
 - **[Detailed Spec File](./05-presentation/README.md)**
-- **Due Date:** TBD
+- **Due Date:** July 11, 2017.

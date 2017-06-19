@@ -33,7 +33,7 @@ Look at how your model performs compared to a dummy model, and articulate the be
 
 - **Submission:**	
   - To be uploaded via your student Github repository.
-  - **Due Date:** TBD
+  - **Due Date:** July 6th, 2017.
 
 ---
 

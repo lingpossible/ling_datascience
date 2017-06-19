@@ -66,7 +66,7 @@ A 10 to 20 slide deck consisting of:
 **Submission:**	
 
   - To be uploaded via your student Github repository.
-  - **Due Date:** TBD
+  - **Due Date:** July 11th, 2017.
 
 ---
 
