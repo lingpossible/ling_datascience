@@ -1,0 +1,21 @@
+
+Correlation
+- Linear relationships
+
+
+
+Simple Linear Regression:
+
+Y=aX+b(+E)
+
+Y=aX+b
+
+When mean = 0, we will not get (+E)
+
+R-Squared: how good your model fit the data. We want the R-squared to be high
+
+https://www.yelp.com/biz/mfk-by-aysee-anaheim-2
+
+
+
+
